@@ -1,0 +1,18 @@
+.nav {
+  grid-area: n;
+  background-color: gray;
+  padding-top: 20px;
+}
+.nav__item {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+.nav__link{
+  margin-bottom: 20px;
+  color: #fff;
+  font-size: 18px;
+  
+}
